@@ -1,5 +1,5 @@
 <div align="center">
-https://github.com/user-attachments/assets/4506cf46-7ce9-4ddf-a799-da70f1e321c1
+  <img src="./assets/Banner of VINSU.gif">
 </div>
 
 ###
